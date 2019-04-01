@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clément Allavena&#39;s personal website</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Clément Allavena&#39;s personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>I&amp;rsquo;m a Student in two year university diploma in IT at the Université Clermont Auvergne. Passionate about IT since childhood, in my website I regroup all of my project.
+I live in Clermont-Ferrand, France and I like to play sports, I practice Martial Arts that i&amp;rsquo;ve been doing for 8 years now. You can find me working at the IUT or at metting like the MUG in Clermont-Ferrand or at the gym.</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>To contact me:
+ Email: clement.allavena@etu.uca.fr  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://example.org/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/</guid>
+      <description>Here is a sample of my projects:
+ CoFiAppV1 - Community Film Application, develop in C#.Net with WPF interface Site News RSS - A news website automated with the RSS technology PixelArtDesign[WIP] - An Android application of colorisation of pixelized images  </description>
+    </item>
+    
+  </channel>
+</rss>
